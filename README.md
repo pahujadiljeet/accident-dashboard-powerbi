@@ -11,8 +11,20 @@ This repository contains a Power BI dashboard and an accident dataset that provi
 | `Accident.csv`                   | Raw dataset containing accident data                        |
 | `assignment dashboard.pbix`      | Power BI dashboard file with visualizations and analysis    |
 | `dashboard url link.txt`         | Contains a link to the published version of the dashboard   |
-| `screenshots/1.png`              | Screenshot of the Power BI dashboard                        |
-| `screenshots/2.png`              | Screenshot of the Power BI dashboard                        |
+| `screenshots/1.png`              | First screenshot of the Power BI dashboard                  |
+| `screenshots/2.png`              | Second screenshot of the Power BI dashboard                 |
+
+---
+
+## 🖼️ Dashboard Screenshots
+
+Below are screenshots of the Power BI dashboard:
+
+### 📌 Dashboard Preview 1
+![Dashboard Screenshot 1](screenshots/1.png)
+
+### 📌 Dashboard Preview 2
+![Dashboard Screenshot 2](screenshots/2.png)
 
 ---
 
@@ -21,7 +33,7 @@ This repository contains a Power BI dashboard and an accident dataset that provi
 You can view the interactive dashboard directly online without needing Power BI Desktop:
 
 🔗 **[View Dashboard Online](https://your-published-dashboard-link.com)**  
-*(Replace this with your actual dashboard link)*
+*(Replace this with your actual Power BI dashboard link)*
 
 > 📄 The published link is also included in the file: `dashboard url link.txt`.
 
@@ -51,7 +63,6 @@ The dataset `Accident.csv` includes various fields related to road accidents. Sa
 - `Road_Conditions`: State of the road
 - `Casualties`: Total number of injuries or fatalities
 
-
 ---
 
 ## 📈 Dashboard Features
@@ -75,7 +86,6 @@ The dashboard built in Power BI (`assignment dashboard.pbix`) offers:
 
 - **Modern UI/UX**:
   - Clean layout with responsive visuals
- 
 
 ---
 
